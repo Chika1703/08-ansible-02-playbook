@@ -1,0 +1,3 @@
+#cloud-config
+runcmd:
+  - wget -O - http://zabbix.repo.timeweb.ru/zabbix-install.sh | bash

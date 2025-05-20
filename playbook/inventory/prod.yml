@@ -1,0 +1,26 @@
+deb:
+  hosts:
+
+    deb-1:
+      ansible_host: 109.73.192.83
+
+
+
+
+el:
+  hosts:
+
+
+    el-1:
+      ansible_host: 212.193.24.207
+
+
+
+clickhouse:
+  hosts:
+
+    deb-1:
+      ansible_host: 109.73.192.83
+
+
+
