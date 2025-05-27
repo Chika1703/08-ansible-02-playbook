@@ -187,13 +187,13 @@ encoding.codec = "json"
 ## Скриншоты
 
 * **Запуск playbook с флагом `--check`**
-  ![Check Mode](./screenshots/playbook-check.png)
+  ![Check Mode](https://github.com/Chika1703/08-ansible-02-playbook/blob/master/img/1.jpg)
 
 * **Первый запуск playbook с флагом `--diff`**
-  ![Diff Mode - Первый запуск](./screenshots/playbook-diff-1.png)
+  ![Diff Mode - Первый запуск](https://github.com/Chika1703/08-ansible-02-playbook/blob/master/img/2.jpg)
 
 * **Повторный запуск playbook с флагом `--diff` (идемпотентность)**
-  ![Diff Mode - Повторный запуск](./screenshots/playbook-diff-2.png)
+  ![Diff Mode - Повторный запуск](https://github.com/Chika1703/08-ansible-02-playbook/blob/master/img/3.jpg)
 
 ---
 
